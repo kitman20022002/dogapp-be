@@ -40,6 +40,6 @@ return [
     ],
 
     'dog' => [
-        'api_url' => env('DOG_API_URL', 'https://dog.ceo/api/')
+        'api_url' => env('DOG_API_URL', 'https://dog.ceo/api')
     ]
 ];
